@@ -10,7 +10,7 @@ class CardPlaceholder extends StatelessWidget {
           borderRadius: BorderRadius.circular(15.0),
         ),
         color: Colors.brown,
-        elevation: 10,
+        elevation: 9,
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
